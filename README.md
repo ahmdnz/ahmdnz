@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+## Ahmad Nazari
+Software developer & systematic trader.
+I build tools that live at the intersection of code and markets.
+
+- Languages & tools: Python
+- Trading: systematic strategies, backtesting, data analysis
+- Currently working on: Backtesting a trading strategy in forex
+- Open to: collaborations, freelance, full-time roles
+
 <!--
 **ahmdnz/ahmdnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
