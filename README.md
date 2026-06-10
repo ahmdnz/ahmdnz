@@ -7,6 +7,8 @@ I build tools that live at the intersection of code and markets.
 - Currently working on: Backtesting a trading strategy in forex
 - Open to: collaborations, freelance, full-time roles
 
+[![Kaggle](https://img.shields.io/badge/Kaggle-ahmadnz-035a7d?logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmadnz)
+
 <!--
 **ahmdnz/ahmdnz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
