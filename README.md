@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Ahmad Nazari
 Software developer & systematic trader.
 I build tools that live at the intersection of code and markets.
